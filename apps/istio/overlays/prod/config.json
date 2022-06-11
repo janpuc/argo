@@ -1,0 +1,10 @@
+{
+  "appName": "istio",
+  "userGivenName": "istio",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/istio/overlays/infra",
+  "srcRepoURL": "https://github.com/janpuc/argo.git",
+  "srcTargetRevision": "",
+  "labels": null
+}
